@@ -223,12 +223,13 @@
     </div>
 
     <div class="gallery" id="gallery">
-        <img src="https://ihplb.b-cdn.net/wp-content/uploads/2021/06/Torres-del-Paine-National-Park-Patagonia-Chile.jpg" alt="Torres del Paine">
-        <img src="https://ihplb.b-cdn.net/wp-content/uploads/2021/06/Banff-National-Park-Canada.jpg" alt="Banff National Park">
-        <img src="https://ihplb.b-cdn.net/wp-content/uploads/2021/06/Maldives.jpeg" alt="Maldives">
-        <img src="https://ihplb.b-cdn.net/wp-content/uploads/2021/06/St.-Basils-Cathedral-Moscow-Russia.jpg" alt="St. Basil's Cathedral">
-        <img src="https://ihplb.b-cdn.net/wp-content/uploads/2021/06/Most-Beautiful-Places-in-the-World-750x430.jpg" alt="Most Beautiful Places">
-        <img src="https://i.insider.com/5d3b004b2516e949fa4523a2?width=800&format=jpeg&auto=webp" alt="Insider Image">
+        <img src="toros.jpg" alt="Banff National Park">
+  	<img src="https://i.insider.com/5d3b004b2516e949fa4523a2?width=800&format=jpeg&auto=webp" alt="Insider Image">
+        <img src="Maldives.jpg" alt="Maldives">
+        <img src="original.jpg" alt="St. Basil's Cathedral">
+        <img src="beauti.jpg" alt="Most Beautiful Places">
+        <img src="ocean.jpg" alt="Most Beautiful Places">
+
     </div>
 
     <div id="destinationInfo">
@@ -242,7 +243,7 @@
             </div>
         </div>
         <div class="destination">
-            <img src="https://www.planetware.com/wpimages/2022/02/japan-top-attractions-naritasan-shinsho-ji.jpg" alt="Tokyo">
+            <img src="tokyo.jpg" alt="Tokyo">
             <div>
                 <h3>Tokyo, Japan</h3>
                 <p>Discover the blend of traditional and modern in this vibrant city.</p>
@@ -413,7 +414,6 @@
     </script>
 </body>
 </html>
-
 
 
 
