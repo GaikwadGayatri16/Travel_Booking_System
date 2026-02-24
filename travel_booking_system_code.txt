@@ -299,7 +299,7 @@
 4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFyY2Vsb25hJTJDJTIwc3BhaW58ZW58MHx8MHx8fDA%3D" alt="Barcelona">
             <div>
                 <h3>Barcelona, Spain</h3>
-                <p>Admire the unique architecture of Gaudí and enjoy the beach.</p>
+                <p>Admire the unique architecture of GaudÃ­ and enjoy the beach.</p>
                 <span>Cost: $1100</span>
             </div>
         </div>
@@ -307,7 +307,7 @@
             <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/2f/e4/toronto.jpg?w=1400&h=1400&s=1" alt="Toronto">
             <div>
                 <h3>Toronto, Canada</h3>
-                <p>Explore the diverse culture and stunning skyline of Canada’s largest city.</p>
+                <p>Explore the diverse culture and stunning skyline of CanadaÂ’s largest city.</p>
                 <span>Cost: $1000</span>
             </div>
         </div>
@@ -414,6 +414,7 @@
 </body>
 </html>
 
-2
+
+
 
 
